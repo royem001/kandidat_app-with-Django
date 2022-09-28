@@ -1,0 +1,1 @@
+# kandidat_app-with-Django
